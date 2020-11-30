@@ -1,5 +1,5 @@
 #!/bin/sh -e
-VERSION=1.0.1
+VERSION=0.16.0
 RELEASE=node_exporter-${VERSION}.linux-amd64
 
 _check_root () {
